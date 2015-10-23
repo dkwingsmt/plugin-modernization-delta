@@ -1,0 +1,19 @@
+{
+  "name": "DeltaModernization",
+  "version": "0.0.1",
+  "description": "Show the status increment during a modernization.",
+  "main": "index.cjsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkwingsmt/plugin-powerup-informer"
+  },
+  "author": "DKWings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkwingsmt/plugin-powerup-informer/issues"
+  },
+  "homepage": "https://github.com/dkwingsmt/plugin-powerup-informer#readme"
+}
